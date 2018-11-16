@@ -2,13 +2,13 @@
 
 With the conclusion of a massive retrospective digitization project in 2016, the Library has released the metadata of the full ETD collection in hopes of encouraging discovery and research. The collection is also accessible through our institutional repository http://escholarship.mcgill.ca/.
 
-Note: Because of the size and number of some of the files, we have some hosted in the repo and some are available for download from our public content server. Bellow is a list
+Note: Because of the size and number of the files, we have the full data asets available via our public content server. Uploaded to this repo is smaller versions of the sets that can be pulled into data visulization programs. Bellow is a list
 
-1.[2018-05-08-mcgill-etd.xml] (Download http://public-content.library.mcgill.ca/digital-collections/2018-ETD/) The most recent export containes 44,368 records in a single XML file and has only the descriptive metadata + the PID that can used to construct a URL to get the thesis full text. 
+1.[2018-05-08-mcgill-etd.xml] (Download http://public-content.library.mcgill.ca/digital-collections/2018-etd-data) The most recent export containes 44,368 records in a single XML file and has only the descriptive metadata + the PID that can used to construct a URL to get the thesis full text. 
 
 2. [2018-05-09-mcgill-etd-edit.csv] Contains a cleaned up CSV of a sub-set of descriptive metadata (Date, author, title, degree, department) + the URL to the full text. All ready to play with!
 
-3. 2017 CSV 
+3. 2017 data can be dowloaded from http://public-content.library.mcgill.ca/digital-collections/2017-etd-data. The first full data set has two parts. The first is a ZIP file - mcgill-etd-metadata.zip - that includes a XML record with the complete metadata for each ETD that includes all of the administrative data related to the uploading of the files. The second ZIP file in this folder - mcgill-etd-fulltext-html.zip - contains the full text HTML files. The html-pdf-correspondence.txt file contains the PID number for the metadata record and the corresponding HTML full text file. 
 
 
 ## Metadata Application Profile 
