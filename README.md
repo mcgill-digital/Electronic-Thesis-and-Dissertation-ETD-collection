@@ -47,6 +47,7 @@ a. **When was the file updated?** May 09, 2018
 
 1. **People involved with sample collection, processing, analysis and/or submission:** Sarah Severson and Elizabeth Thomson
 2. **Descriptive Metadata Application Profile**
+
 | Element | Dublin Core &amp; refinement label | Document Information |
 | ----------- | ----------- | ----------- |
 | Title | dc:title | Title of document |
