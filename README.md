@@ -43,7 +43,7 @@ d. 2017-etd-parse.csv is a pared down CSV file with only the PID, Year, Departme
 3. **If yes, name of file(s) that was updated:** See File list for details  
 a. **When was the file updated?** May 09, 2018 
 
-## METHODOLGICAL INFORMATION
+## METHODOLOGICAL INFORMATION
 
 1. **People involved with sample collection, processing, analysis and/or submission:** Sarah Severson and Elizabeth Thomson
 2. **Descriptive Metadata Application Profile**
